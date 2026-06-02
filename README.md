@@ -113,3 +113,7 @@ value is ignored, so enqueue heavy work rather than doing it inline.
 ```sh
 mix test
 ```
+
+## License
+
+MIT © Narakarya — see [LICENSE](LICENSE).
